@@ -1,0 +1,2 @@
+webpackJsonp([8],{h1J4:function(t,e){},kIi0:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{attrs:{id:"Software"}},[this._v("\n    大数据管理系统\n")])},staticRenderFns:[]};var a=n("C7Lr")({name:"Software",data:function(){return{}}},r,!1,function(t){n("h1J4")},"data-v-63a011d6",null);e.default=a.exports}});
+//# sourceMappingURL=8.9db968b46a97c36b64fd.js.map
